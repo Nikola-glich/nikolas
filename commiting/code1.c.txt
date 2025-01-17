@@ -2,7 +2,9 @@
 
 int main()
 {
-    printf("Commit work.");
+    int n;
+    n = 3;
+    printf("Commit %d", n);
 
     return 0;
 
